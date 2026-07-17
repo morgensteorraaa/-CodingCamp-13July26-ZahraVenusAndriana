@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- Feature-detection banner (hidden by default, shown by JS) -->
+  <div id="unsupported-banner" class="banner banner--error" hidden></div>
+
+  <main class="dashboard-grid">
+
+    <!-- Widget 1: Greeting -->
+    <section id="widget-greeting" class="widget">
+      <p id="greeting-message" class="greeting__message"></p>
+      <p id="greeting-time"    class="greeting__time"></p>
+      <p id="greeting-date"    class="greeting__date"></p>
+    </section>
+
+    <!-- Widget 2: Focus Timer -->
+    <section id="widget-timer" class="widget">
+      <h2 class="widget__title">Focus Timer</h2>
+      <p  id="timer-display"   class="timer__display">25:00</p>
+      <p  id="timer-complete"  class="timer__complete" hidden>Session complete!</p>
+      <div class="timer__controls">
+        <button id="timer-start"  type="button">Start</button>
+        <button id="timer-stop"   type="button">Stop</button>
+        <button id="timer-reset"  type="button">Reset</button>
+      </div>
+    </section>
+
+    <!-- Widget 3: To-Do List -->
+    <section id="widget-todo" class="widget">
+      <h2 class="widget__title">To-Do List</h2>
+      <div class="todo__add-form">
+        <input id="todo-input"    type="text" maxlength="500"
+               placeholder="Add a task…" aria-label="New task description" />
+        <button id="todo-add"     type="button">Add</button>
+        <p  id="todo-add-error"   class="error-msg" hidden></p>
+      </div>
+      <ul  id="todo-list"         class="todo__list" role="list"></ul>
+      <p   id="todo-storage-error" class="error-msg" hidden></p>
+    </section>
+
+    <!-- Widget 4: Quick Links -->
+    <section id="widget-links" class="widget">
+      <h2 class="widget__title">Quick Links</h2>
+      <div class="links__add-form">
+        <input id="links-label-input" type="text" maxlength="50"
+               placeholder="Label" aria-label="Link label" />
+        <p id="links-label-error" class="error-msg" hidden></p>
+        <input id="links-url-input"   type="url"  maxlength="2048"
+               placeholder="https://…" aria-label="Link URL" />
+        <p id="links-url-error"   class="error-msg" hidden></p>
+        <button id="links-add"   type="button">Add Link</button>
+        <p id="links-max-msg"    class="info-msg" hidden>Maximum 20 links reached.</p>
+      </div>
+      <div id="links-list"       class="links__list" role="list"></div>
+      <p   id="links-storage-error" class="error-msg" hidden></p>
+    </section>
+
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
