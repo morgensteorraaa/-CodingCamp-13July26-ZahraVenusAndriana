@@ -1,0 +1,435 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create the three project files at their required paths": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216169380
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216190851
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216340787
+      }
+    ],
+    "2.1 Write all CSS rules in `css/style.css`": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216173930
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216350303
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216487623
+      }
+    ],
+    "3.1 Write the IIFE wrapper and `featureDetect()` function": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174075
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216512315
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216623530
+      }
+    ],
+    "3.3 Implement `StorageService` (read and write methods)": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174154
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216514197
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216628665
+      }
+    ],
+    "3.4 Implement `generateId()` helper": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174229
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216514359
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216633827
+      }
+    ],
+    "4.1 Write `GreetingWidget` module with pure helper functions and `init()`": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174296
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216641235
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217476981
+      }
+    ],
+    "5.1 Write `FocusTimer` module with state machine and controls": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174362
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216641660
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217478322
+      }
+    ],
+    "6. Checkpoint — Ensure all tests pass so far": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174445
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217486020
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217544893
+      }
+    ],
+    "7.1 Implement `TodoList.loadFromStorage()` and `TodoList.saveToStorage()`": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174542
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217552324
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217666024
+      }
+    ],
+    "7.3 Implement `TodoList.addTask(text)`, `editTask(id, newText)`, `toggleTask(id)`, and `deleteTask(id)`": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174615
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217673726
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217856141
+      }
+    ],
+    "7.5 Implement `TodoList.renderList()`, `renderTask(task)`, and inline edit mode": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174698
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217862311
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218718005
+      }
+    ],
+    "8. Checkpoint — Ensure all tests pass so far": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174791
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218724819
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218792141
+      }
+    ],
+    "9.1 Implement `QuickLinks.loadFromStorage()` and `QuickLinks.saveToStorage()`": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174862
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217552504
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217667303
+      }
+    ],
+    "9.2 Implement `QuickLinks.addLink(label, url)` and `QuickLinks.deleteLink(id)`": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174925
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217675083
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217857048
+      }
+    ],
+    "9.5 Implement `QuickLinks.renderLinks()`, `renderLink(link)`, and `init()`": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216174997
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217863441
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218716832
+      }
+    ],
+    "10.1 Create `test/index.html` test runner page": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216175139
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218797521
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218883363
+      }
+    ],
+    "10.2 Create `test/greeting.test.js` with all GreetingWidget property tests": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216175276
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218890273
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784219059235
+      }
+    ],
+    "10.3 Create `test/timer.test.js` with all FocusTimer property tests": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216175375
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218891440
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784219060232
+      }
+    ],
+    "10.4 Create `test/todo.test.js` with all TodoList property tests": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216175492
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218892512
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784219061299
+      }
+    ],
+    "10.5 Create `test/links.test.js` with all QuickLinks property tests": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216175562
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218894352
+      },
+      {
+        "executionId": "b96f4aae-0488-4913-8b7b-6d263abe2170",
+        "chatSessionId": "sess_0ff6ffec-889d-412f-ade0-581782aa885c",
+        "timestamp": 1784255071889
+      }
+    ],
+    "10.6 Create `test/examples.test.js` with all example-based smoke tests": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216175629
+      },
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218894979
+      },
+      {
+        "executionId": "b96f4aae-0488-4913-8b7b-6d263abe2170",
+        "chatSessionId": "sess_0ff6ffec-889d-412f-ade0-581782aa885c",
+        "timestamp": 1784255072998
+      }
+    ],
+    "11. Final checkpoint — Ensure all tests pass": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216175693
+      },
+      {
+        "executionId": "b96f4aae-0488-4913-8b7b-6d263abe2170",
+        "chatSessionId": "sess_0ff6ffec-889d-412f-ade0-581782aa885c",
+        "timestamp": 1784255103491
+      },
+      {
+        "executionId": "b96f4aae-0488-4913-8b7b-6d263abe2170",
+        "chatSessionId": "sess_0ff6ffec-889d-412f-ade0-581782aa885c",
+        "timestamp": 1784255367518
+      }
+    ],
+    "1. Scaffold project structure and HTML skeleton": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216340861
+      }
+    ],
+    "2. Implement CSS design tokens, layout, and visual states": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216487753
+      }
+    ],
+    "3. Implement the IIFE skeleton, feature detection, and StorageService in `js/main.js`": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784216633881
+      }
+    ],
+    "4. Implement GreetingWidget": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217477070
+      }
+    ],
+    "5. Implement FocusTimer": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784217478460
+      }
+    ],
+    "9. Implement QuickLinks module": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218716913
+      }
+    ],
+    "7. Implement TodoList module": [
+      {
+        "executionId": "97bedeb1-8ec1-40f5-a9de-8ec181e0369f",
+        "chatSessionId": "sess_1dba3f1e-f247-4345-8332-9208a620aa9f",
+        "timestamp": 1784218718095
+      }
+    ],
+    "10. Create the test runner and wire all test files": [
+      {
+        "executionId": "b96f4aae-0488-4913-8b7b-6d263abe2170",
+        "chatSessionId": "sess_0ff6ffec-889d-412f-ade0-581782aa885c",
+        "timestamp": 1784255073192
+      }
+    ]
+  }
+}
